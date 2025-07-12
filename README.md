@@ -90,8 +90,9 @@ Jupyter Notebook
 
 # Clone this repository:
 
-git clone https://github.com/your-username/diabetes-prediction.git
-cd diabetes-prediction
+-git clone https://github.com/your-username/diabetes-prediction.git
+
+-cd diabetes-prediction
 
 # Install dependencies:
 
