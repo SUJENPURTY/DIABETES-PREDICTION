@@ -1,6 +1,6 @@
 # DIABETES-PREDICTION
 
-# 🩺 Diabetes Prediction
+🩺 Diabetes Prediction
 
 This project implements a machine learning pipeline to predict the likelihood of diabetes in patients based on clinical and demographic measurements. The model is designed to support healthcare professionals with early risk assessment.
 
